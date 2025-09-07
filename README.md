@@ -1,4 +1,4 @@
-![alt text](image-1.png) 
+![alt text](image-9.png) 
 ![alt text](image-2.png)
 
 Boss then we made some test cases by adding and removing shortcuts:
